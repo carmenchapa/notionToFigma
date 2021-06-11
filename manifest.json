@@ -1,0 +1,7 @@
+{
+  "name": "tlbFigma",
+  "id": "982685432898991752",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
